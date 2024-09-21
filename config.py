@@ -1,7 +1,7 @@
 
 FLASK_PORT_NUMBER = 8080
 
-CSV_FILE_NAME = r'Data/employee_data.csv'
+CSV_FILE_NAME = r'sample/employee_data.csv'
 
 COLUMN_DATA_JSON = r'artifacts/column_data.json' 
 
