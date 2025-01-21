@@ -2,13 +2,13 @@
 
 ## Overview
 
-The `employee_data.csv` dataset contains simulated data of 400 employees working in various IT-related positions. This dataset includes details about each employee's gender, years of experience, position, and salary. It was generated using the Python Faker library, providing realistic fake data to reflect real-world distributions and trends in the IT industry, particularly salary variations based on job roles and experience.
+The `employee_data.csv` dataset contains simulated data of employees working in various IT-related positions. This dataset includes details about each employee's gender, years of experience, position, and salary. It was generated using the Python Faker library, providing realistic fake data to reflect real-world distributions and trends in the IT industry, particularly salary variations based on job roles and experience.
 
 ## Dataset Description
 
 The dataset contains the following columns:
 
-1. **ID**: A unique identifier for each employee (ranging from 1 to 400).
+1. **ID**: A unique identifier for each employee.
 2. **Gender**: The gender of the employee. Possible values: `'M'` (Male) or `'F'` (Female).
 3. **Experience (Years)**: The number of years of professional experience the employee has, ranging from 0 to 20 years.
 4. **Position**: The job title of the employee. Possible values include:
